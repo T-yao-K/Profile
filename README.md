@@ -18,7 +18,7 @@ React,FastAPI,Dockerを用いて実装しました。
 投票賞を受賞しました。  
 AWSのlambda関数を主に用いて実装しました。
 
-* MOFT
+* MOFT  
 VRChat用地震等災害警報アバターシステム
 (現在整備中)
 PNGミュージアム × エンジニア集会 コラボハッカソンにて、チーム「Project"FuTiOOn"」として作成した作品です。
