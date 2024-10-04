@@ -19,8 +19,8 @@ React,FastAPI,Dockerを用いて実装しました。
 AWSのlambda関数を主に用いて実装しました。
 
 * MOFT  
-VRChat用地震等災害警報アバターシステム
-note:https://note.com/tolpaz/n/n67b4062c3b05
+VRChat用地震等災害警報アバターシステム  
+note:https://note.com/tolpaz/n/n67b4062c3b05  
 PNGミュージアム × エンジニア集会 コラボハッカソンにて、チーム「Project"FuTiOOn"」として作成した作品です。  
 VRCのアバターに警報を鳴らすアニメーションと、アニメーション起動用のPCアプリを実装することでVRC内へ警報を鳴らす仕組みを実現しました。  
 PCアプリではP2P地震情報APIにwebhookで接続し、緊急地震速報を受信するとOSC通信でVRC内のアバターのアニメーションを起動します。  
